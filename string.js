@@ -15,3 +15,7 @@
 // const address = "bandarban";
 // const paste = address.slice(1, 8);
 // console.log(paste);
+
+// const student = "I am a good student";
+// const final = student.split(' ')
+// console.log(final.join("||"));
