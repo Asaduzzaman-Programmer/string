@@ -10,5 +10,9 @@ const sawon = {
         physical: "no",
     }
 }
-const sallary = sawon.income;
-console.log(sallary)
+// const sallary = sawon.income;
+// console.log(sallary)
+
+// console.log(sawon["age"])
+const man = sawon["age"]
+console.log(man)
